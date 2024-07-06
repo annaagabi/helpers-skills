@@ -13,6 +13,10 @@ function handleCep(){
             console.log("Bairro:", data.bairro)
             console.log("Rua:", data.logradouro)
             console.log("UF:", data.uf)
+
+            // document.getElementById("container").innerHTML = `
+            // <p>${data.cep}</p>
+            // `
         })
         .catch((error) => console.error('Erro aoa buscar o cep', error))
 }

@@ -1,0 +1,32 @@
+Este consumo é feito em JavaScript puro
+
+Comandos Usados:
+
+- npm init -y
+- Comando que roda o script: npm run dev
+- Comando que cria uma branch master: `git branch -M develop`
+- git add package.json
+- git commit -m "feat: inicialized repository"
+- git add src/helpers/fundamentos.js
+- git commit -m "feat: created fundamntals archive"
+- git remote add origin https://github.com/annaagabi/helpers-skills
+- git push origin develop
+
+
+Links:
+
+https://262.ecma-international.org/15.0/index.html?_gl=1*1hksrmg*_ga*MTA4MDY1MzcwOS4xNzIwMjc1ODgw*_ga_TDCK4DWEPP*MTcyMDI3NTg3OS4xLjAuMTcyMDI3NTg3OS4wLjAuMA..
+
+https://chocolatey.org/
+
+https://webpack.js.org/
+
+https://eslint.org/
+
+https://fig.io/user-manual/autocomplete
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/Fetch_API/Using_Fetch
+
+Link da API de CEP: https://viacep.com.br/
+
+Link da API de Pokemon: https://pokeapi.co/
